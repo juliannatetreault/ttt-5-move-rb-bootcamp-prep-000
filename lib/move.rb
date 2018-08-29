@@ -10,6 +10,5 @@ end
 
 def input_to_index(user_input)
   index = user_input.to_i - 1
-  input.each do |user_input|
   puts "#{user_input}".to_i
 end

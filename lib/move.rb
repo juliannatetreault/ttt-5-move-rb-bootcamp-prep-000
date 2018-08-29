@@ -9,7 +9,7 @@ end
 # code your input_to_index and move method here!
 
 def input_to_index(user_input)
-  input = ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
+  index = input
   input.each do |user_input|
   puts "#{user_input}".to_i
 end

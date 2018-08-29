@@ -8,6 +8,6 @@ end
 
 # code your input_to_index and move method here!
 
-def input_to_index("1" - "9")
+def input_to_index(user_input)
   puts "#{1 - 9}".to_i
 end
